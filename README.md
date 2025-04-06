@@ -16,8 +16,7 @@ A full-stack travel listings web application where users can:
 - MongoDB & Mongoose
 - EJS
 - Bootstrap 5
-- Cloudinary (for image upload)
-- Mapbox (for map rendering)
+
 
 ---
 
