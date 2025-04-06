@@ -28,3 +28,16 @@ git clone https://github.com/2101Abhishek/wanderlust.git
 cd wanderlust
 npm install
 npm start
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](./public/screenshots/home.png)
+
+### 📋 Listings Page
+![Listing](./public/screenshots/listing.png)
+
+### ➕ Add New Listing
+![New Listing](./public/screenshots/new-listing.png)
