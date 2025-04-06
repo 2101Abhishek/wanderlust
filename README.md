@@ -26,7 +26,7 @@ A full-stack travel listings web application where users can:
 git clone https://github.com/2101Abhishek/wanderlust.git
 cd wanderlust
 npm install
-npm start
+npm start or nodemon app.js
 
 ---
 
