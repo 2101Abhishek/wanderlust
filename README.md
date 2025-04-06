@@ -34,11 +34,12 @@ npm start
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-[![Home](./public/screenshots/home.png)](./public/screenshots/home.png)
+![Home](https://raw.githubusercontent.com/2101Abhishek/wanderlust/main/public/screenshots/home.png)
 
 ### 📋 Listings Page
-[![Listing](./public/screenshots/listing.png)](./public/screenshots/listing.png)
+![Listing](https://raw.githubusercontent.com/2101Abhishek/wanderlust/main/public/screenshots/listing.png)
 
 ### ➕ Add New Listing
-[![New Listing](./public/screenshots/new-listing.png)](./public/screenshots/new-listing.png)
+![New Listing](https://raw.githubusercontent.com/2101Abhishek/wanderlust/main/public/screenshots/new-listing.png)
+
 
