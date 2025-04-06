@@ -34,10 +34,11 @@ npm start
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./public/screenshots/home.png)
+[![Home](./public/screenshots/home.png)](./public/screenshots/home.png)
 
 ### 📋 Listings Page
-![Listing](./public/screenshots/listing.png)
+[![Listing](./public/screenshots/listing.png)](./public/screenshots/listing.png)
 
 ### ➕ Add New Listing
-![New Listing](./public/screenshots/new-listing.png)
+[![New Listing](./public/screenshots/new-listing.png)](./public/screenshots/new-listing.png)
+
