@@ -10,9 +10,9 @@ const listingSchema = new Schema({
     description: String,
     image: {
         type: String,
-        default: "https://unsplash.com/photos/a-waterfall-on-the-side-of-a-cliff-next-to-the-ocean--NEGehNFXF0",
+        default: "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=800&q=80",
         set: (v) => v === ""
-            ? "https://unsplash.com/photos/a-waterfall-on-the-side-of-a-cliff-next-to-the-ocean--NEGehNFXF0"
+            ? "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=800&q=80"
             : v
     },
     price: Number,
